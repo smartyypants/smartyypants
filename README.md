@@ -3,4 +3,4 @@
 
 
   
-<p align="center">ᴄʜᴜᴅ ᴀᴄᴛɪᴠɪᴛᴇꜱ ♡</p>
+<p align="center">ᴄʜᴜᴅ ᴀᴄᴛɪᴠɪᴛᴇꜱ :trollface: ♡</p> 
