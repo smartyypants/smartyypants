@@ -13,7 +13,6 @@
 
 
 
-<p align="center">
-  
-  [pt-stars](https://github.com/pt-stars) [pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
-</p>
+[pt-stars](https://github.com/pt-stars)<br>
+[pt-fashion](https://github.com/pt-fashion)<br> 
+[pt-walk-of-fame](https://github.com/pt-walk-of-fame)
