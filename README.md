@@ -8,3 +8,12 @@
   
 <p align="center">ᴄʜᴜᴅ ᴀᴄᴛɪᴠɪᴛᴇꜱ :trollface: ♡ </p>  
   <p align="center">ɪɴ ᴀʟʟ ꜱᴇʀɪᴏᴜꜱɴᴇꜱꜱ ᴛʜᴀɴᴋ ᴜ ꜱᴏ ꜰʀᴇᴀᴋɪɴɢ ᴍᴜᴄʜ ᴊᴜɴᴇʏ ᴀɴᴅ ᴍᴀᴛᴛ ɪʟʏ ʙᴏᴛʜ & ᴇᴠᴇʀʏᴏɴᴇ ᴇʟꜱᴇ </p> 
+
+</p>  
+
+
+
+<p align="center">
+  
+  [pt-stars](https://github.com/pt-stars) [pt-fashion](https://github.com/pt-fashion) [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+</p>
