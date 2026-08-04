@@ -6,4 +6,5 @@
 
 
   
-<p align="center">ᴄʜᴜᴅ ᴀᴄᴛɪᴠɪᴛᴇꜱ :trollface: ♡</p> 
+<p align="center">ᴄʜᴜᴅ ᴀᴄᴛɪᴠɪᴛᴇꜱ :trollface: ♡ </p>  
+  <p align="center">ɪɴ ᴀʟʟ ꜱᴇʀɪᴏᴜꜱɴᴇꜱꜱ ᴛʜᴀɴᴋ ᴜ ꜱᴏ ꜰʀᴇᴀᴋɪɴɢ ᴍᴜᴄʜ ᴊᴜɴᴇʏ ᴀɴᴅ ᴍᴀᴛᴛ ɪʟʏ ʙᴏᴛʜ </p> 
